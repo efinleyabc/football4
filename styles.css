@@ -1,11 +1,11 @@
 h1   { font-style:colspan;
- font-family:helvetica; 
+ font-family:helvetica, sans-serif; 
  background-color:yellow;}
 p {color:lightblue;
- font-family:helvetica; 
+ font-family:helvetica, sans-serif; 
 }
 body {background-color:green;
- font-family:helvetica; 
+ font-family:helvetica, sans-serif; 
 }
-td {color:white; font-family:helvetica; 
+td {color:white; font-family:helvetica, sans-serif; 
 }
